@@ -15,3 +15,9 @@ It uses artificial intelligence and machine learning (AI/ML) to process this dat
 
 ## **How AI Systems Process Visual Information**
 AI systems use computer vision algorithms to process visual information. The process involves capturing images through sensors or cameras, pre-processing these images to enhance their quality, and then using models and algorithms to analyze the visual data.
+
+## **Role of Image Processing in AI systems**
+AI image processing uses artificial intelligence to analyze and enhance images.
+It involves tasks like pattern recognition, object detection, and image classification.
+Core technologies include deep learning, neural networks, and machine learning algorithms.
+Revolutionizes healthcare, security, and entertainment by automating complex tasks and improving accuracy.
