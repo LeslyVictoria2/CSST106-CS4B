@@ -12,3 +12,6 @@ https://github.com/user-attachments/assets/72cb9beb-8a7f-4ae4-9418-7cd8a5d42daa
 A branch of computer science that empowers machines to see, recognize and process images just like humans.
 A field of AI that enables computers to interpret and make decisions based on visual data, such as images and videos.
 It uses artificial intelligence and machine learning (AI/ML) to process this data accurately for object identification and facial recognition, as well as classification, recommendation, monitoring, and detection.
+
+## **How AI Systems Process Visual Information**
+AI systems use computer vision algorithms to process visual information. The process involves capturing images through sensors or cameras, pre-processing these images to enhance their quality, and then using models and algorithms to analyze the visual data.
