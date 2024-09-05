@@ -64,12 +64,10 @@ Image segmentation involves dividing an image into several distinct regions base
 ## **Lane Detection Systems for Autonomous Vehicles**
 ### **Step 1:**
 The first step is to capture an image from the car camera to implement image processing.
-
 ![image](https://github.com/user-attachments/assets/7bcf99d9-d662-45c2-ae93-760a96374a6c)
 
 ### **Step 2:**
 Next, I used Google Colab to implement the image processing.
-
 ![download (1)](https://github.com/user-attachments/assets/6bab493c-c3f6-4811-9e01-b9d60920f1d6)
 
 ### **Step 3:**
