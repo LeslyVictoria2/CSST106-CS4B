@@ -144,6 +144,6 @@ The cv2.HoughLinesP detects lines in the masked edge image. The lines are drawn 
 - The potential impact of this technique is immense, as it can greatly expand how AI can be applied to solve challenging visual tasks. For example, in my image processing implementation of lane detection in autonomous vehicles, the enhanced ability to process and interpret complex visual environments could make self-driving cars safer and more reliable, bringing us closer to widespread adoption.
 
 ## **Quotes**
-#### A computer is like a violin. You can imagine it, making beautiful music, but you have to learn how to play it. 
-*- Bill Gates*
+*A computer is like a violin. You can imagine it, making beautiful music, but you have to learn how to play it.*
+- Bill Gates
 
