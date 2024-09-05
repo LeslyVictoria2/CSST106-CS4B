@@ -61,7 +61,7 @@ Image segmentation involves dividing an image into several distinct regions base
 - I use Canny Edge Detection technique to detect lane boundaries in captured images from the car.
 - The lane detection model helps the AI system keep the vehicle within its lane, plan safe paths, and navigate efficiently, enhancing overall driving safety.
 
-## **Lane Detection Systems for Autonomous Vehicles**
+### **Lane Detection Systems for Autonomous Vehicles**
 ### **Step 1:**
 The first step is to capture an image from the car camera to implement image processing.
 
