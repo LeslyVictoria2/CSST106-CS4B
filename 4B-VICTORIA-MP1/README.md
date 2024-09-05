@@ -145,6 +145,6 @@ The cv2.HoughLinesP detects lines in the masked edge image. The lines are drawn 
 
 ## **Quotes**
 *A computer is like a violin. You can imagine it, making beautiful music, but you have to learn how to play it.*
-# - Bill Gates
+### - Bill Gates
 
 
