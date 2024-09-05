@@ -64,50 +64,71 @@ Image segmentation involves dividing an image into several distinct regions base
 ## **Lane Detection Systems for Autonomous Vehicles**
 ### **Step 1:**
 The first step is to capture an image from the car camera to implement image processing.
+
 ![image](https://github.com/user-attachments/assets/7bcf99d9-d662-45c2-ae93-760a96374a6c)
 
 ### **Step 2:**
 Next, I used Google Colab to implement the image processing.
+
 ![download (1)](https://github.com/user-attachments/assets/6bab493c-c3f6-4811-9e01-b9d60920f1d6)
 
 ### **Step 3:**
 The cv2, numpy, and matplotlib.pyplot are imported. These libraries are essential for image processing (cv2), numerical operations (numpy), and visualizing results (matplotlib).
+
 ![Screenshot 2024-09-04 201201](https://github.com/user-attachments/assets/6b56bf05-677b-4877-bfd8-5d0b7e736d22)
 
 ### **Step 4:**
 The image file 'image.jpg' is read using cv2.imread. The image is then converted from BGR (OpenCV's default) to RGB for proper display with matplotlib, and shown with a title "Original Captured Image".
+
 ![Screenshot 2024-09-04 201636](https://github.com/user-attachments/assets/1e42386f-d590-42d7-ba4e-8695bafcdaf7)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/079095ef-a227-4a73-8e5d-7723a9ffdafb)
 
 ### **Step 5:**
 The color image is converted to grayscale using cv2.cvtColor, reducing it to a single channel, which is easier to process for edge detection. The grayscale image is displayed with a title "Grayscale Image".
+
 ![Screenshot 2024-09-04 201907](https://github.com/user-attachments/assets/1c944df9-134c-4ae7-8a74-615872367049)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/b1b9a793-54a5-4546-a12a-d64c1aa87f9b)
 
 ### **Step 6:**
 A Gaussian Blur is applied to the grayscale image using cv2.GaussianBlur, which helps reduce noise and detail. This step smooths the image, making edge detection more accurate. The blurred image is displayed with the title "Gaussian Filter Image".
+
 ![Screenshot 2024-09-04 201929](https://github.com/user-attachments/assets/778c78dc-d3a0-47b8-8d10-8b432c182162)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/aa1325d6-cf7a-4022-ba93-f14baa3eeec0)
 
 ### **Step 7:**
 Canny Edge Detection is applied to the blurred image using cv2.Canny, detecting edges by looking for areas of rapid intensity change. The detected edges are shown with the title "Canny Edge Detection".
+
 ![Screenshot 2024-09-04 201956](https://github.com/user-attachments/assets/c4e97e37-f8ec-47fa-a006-db250f86dc7d)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/76ecd780-1658-4841-86e5-f4499abec0d5)
 
 ### **Step 8:**
 A polygonal mask is created to focus on a specific region of interest (ROI), typically where lane lines might appear. The ROI is filled with white (255), and applied to the edge-detected image using cv2.bitwise_and, highlighting edges only within this region.
+
 ![Screenshot 2024-09-04 202021](https://github.com/user-attachments/assets/197ba03f-de4b-4823-b0ef-c5f3fb9d15f9)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/b3d1d78e-32ae-4ba3-a397-d7de8db72efc)
 
 ### **Step 9:**
 The cv2.HoughLinesP detects lines in the masked edge image. The lines are drawn on a blank image (line_image) using cv2.line. The detected lines are shown in red, simulating lane markings. Then the line image is combined with the original captured image using cv2.addWeighted, highlighting the detected lanes over the original image. The final result is displayed with the title "Lane Detection Highlighted (Red Line)".
+
 ![Screenshot 2024-09-04 202045](https://github.com/user-attachments/assets/7236ac6e-353b-4491-9299-a037e13474f8)
+
 Result:
+
 ![image](https://github.com/user-attachments/assets/37b2b314-4ab4-43a7-b98d-5a1bff47bd30)
 
 ## **Conclusion**
