@@ -3,12 +3,12 @@
 
 ## **Lesly-Ann B. Victoria from BSCS-4B**
 
-## **Presentation Development**
+## **Presentation Development:**
 https://github.com/user-attachments/assets/09c88255-4c11-4400-a652-8d49e25cd182
 
 https://github.com/user-attachments/assets/72cb9beb-8a7f-4ae4-9418-7cd8a5d42daa
 
-## **Introduction to Computer Vision and Image Processing**
+## **Introduction to Computer Vision and Image Processing:**
 
 ### **Computer Vision**
 - A branch of computer science that empowers machines to see, recognize and process images just like humans.
