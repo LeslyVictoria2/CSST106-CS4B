@@ -83,6 +83,7 @@ The image file 'image.jpg' is read using cv2.imread. The image is then converted
 ![Screenshot 2024-09-04 201636](https://github.com/user-attachments/assets/1e42386f-d590-42d7-ba4e-8695bafcdaf7)
 
 **Result:**
+
 ![image](https://github.com/user-attachments/assets/079095ef-a227-4a73-8e5d-7723a9ffdafb)
 
 ### **Step 5:**
@@ -91,6 +92,7 @@ The color image is converted to grayscale using cv2.cvtColor, reducing it to a s
 ![Screenshot 2024-09-04 201907](https://github.com/user-attachments/assets/1c944df9-134c-4ae7-8a74-615872367049)
 
 **Result:**
+
 ![image](https://github.com/user-attachments/assets/b1b9a793-54a5-4546-a12a-d64c1aa87f9b)
 
 ### **Step 6:**
@@ -99,6 +101,7 @@ A Gaussian Blur is applied to the grayscale image using cv2.GaussianBlur, which 
 ![Screenshot 2024-09-04 201929](https://github.com/user-attachments/assets/778c78dc-d3a0-47b8-8d10-8b432c182162)
 
 **Result:**
+
 ![image](https://github.com/user-attachments/assets/aa1325d6-cf7a-4022-ba93-f14baa3eeec0)
 
 ### **Step 7:**
@@ -107,6 +110,7 @@ Canny Edge Detection is applied to the blurred image using cv2.Canny, detecting 
 ![Screenshot 2024-09-04 201956](https://github.com/user-attachments/assets/c4e97e37-f8ec-47fa-a006-db250f86dc7d)
 
 **Result:**
+
 ![image](https://github.com/user-attachments/assets/76ecd780-1658-4841-86e5-f4499abec0d5)
 
 ### **Step 8:**
@@ -115,6 +119,7 @@ A polygonal mask is created to focus on a specific region of interest (ROI), typ
 ![Screenshot 2024-09-04 202021](https://github.com/user-attachments/assets/197ba03f-de4b-4823-b0ef-c5f3fb9d15f9)
 
 **Result:**
+
 ![image](https://github.com/user-attachments/assets/b3d1d78e-32ae-4ba3-a397-d7de8db72efc)
 
 ### **Step 9:**
@@ -123,6 +128,7 @@ The cv2.HoughLinesP detects lines in the masked edge image. The lines are drawn 
 ![Screenshot 2024-09-04 202045](https://github.com/user-attachments/assets/7236ac6e-353b-4491-9299-a037e13474f8)
 
 **Result:**
+
 ![image](https://github.com/user-attachments/assets/37b2b314-4ab4-43a7-b98d-5a1bff47bd30)
 
 ## **Conclusion**
