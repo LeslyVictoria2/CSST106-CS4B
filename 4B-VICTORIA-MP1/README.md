@@ -54,8 +54,7 @@ Image segmentation involves dividing an image into several distinct regions base
 - The use of cameras and sensors to capture images of their surroundings, which are then processed using computer vision techniques. These techniques help the vehicle detect obstacles, recognize traffic signs, identify lanes, and interpret road conditions.
 - The images captured from the autonomous car are processed by the proposed system which is used to control the autonomous vehicle.
   
-## **PROBLEM:**
-### Lane Detection in Autonomous Vehicles
+## **PROBLEM: Lane Detection in Autonomous Vehicles**
 
 ## **My Image Processing Implementation:**
 - Problem in autonomous vehicles is detecting the lane boundaries to ensure the vehicle stays within its lane. Edge detection is a key technique used to solve this problem.
