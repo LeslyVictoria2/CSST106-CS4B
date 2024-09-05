@@ -1,5 +1,5 @@
 # **MACHINE PROBLEM 1**
-# Exploring the Role of Computer Vision and Image Processing in AI
+## Exploring the Role of Computer Vision and Image Processing in AI
 
 ## **Lesly-Ann B. Victoria from BSCS-4B**
 
