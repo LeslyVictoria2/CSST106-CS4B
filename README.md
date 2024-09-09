@@ -1,4 +1,4 @@
-<body style="background-image: url('[https://developer-blogs.nvidia.com/wp-content/uploads/2023/06/deep-learning-visual.png](https://www.bombaysoftwares.com/_next/image?url=https%3A%2F%2Fbs-cms-media-prod.s3.ap-south-1.amazonaws.com%2Fcomputer_vision_16e048b394.png&w=3840&q=75)'); background-size: cover; background-attachment: fixed; padding: 100px; color: white;">
+<body style="background-image: url('[https://www.bombaysoftwares.com/_next/image?url=https%3A%2F%2Fbs-cms-media-prod.s3.ap-south-1.amazonaws.com%2Fcomputer_vision_16e048b394.png&w=3840&q=75]'); background-size: cover; background-attachment: fixed; padding: 100px; color: white;">
 </body>
 
 ## I'm Lesly-Ann B. Victoria from BSCS-IS-4B.
