@@ -1,4 +1,4 @@
-<body style="background-image: url('[![background](https://github.com/user-attachments/assets/4055b9a7-8234-47d7-a265-60bf8a948249)'] background-size: cover; background-attachment: fixed; padding: 100px; color: white;">
+<body style="background-image: url('[![background](https://github.com/user-attachments/assets/4055b9a7-8234-47d7-a265-60bf8a948249)]') background-size: cover; background-attachment: fixed; padding: 100px; color: white;">
 </body>
 
 ## I'm Lesly-Ann B. Victoria from BSCS-IS-4B.
