@@ -1,7 +1,7 @@
 <body style="background-image: url('https://developer-blogs.nvidia.com/wp-content/uploads/2023/06/deep-learning-visual.png'); background-size: cover; background-attachment: fixed; padding: 100px; color: white;">
 </body>
 
-## "Link and Compilation of Machine Problem or Laboratory Work using github"
+# "CSST106 - Perception and Computer Vision Course"
 
 ### I'm Lesly-Ann B. Victoria from BSCS-IS-4B. 
 ### Welcome to my compilation of Machine Problem and Google Colab Laboratory Work for CSST106 - Perception and Computer Vision Course. 
