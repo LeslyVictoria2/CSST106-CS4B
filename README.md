@@ -1,8 +1,6 @@
 <body style="background-image: url('https://www.world-wide.org/images/comp-vision.jpg'); background-size: cover; background-attachment: fixed; padding: 100px; color: white;">
 </body>
 
-# "CSST106 – Perception and Computer Vision"
-
 ## I'm Lesly-Ann B. Victoria from BSCS-IS-4B.
 ## Welcome to my compilation of Machine Problem and Google Colab Laboratory Work for CSST106 – Perception and Computer Vision Course.
 
