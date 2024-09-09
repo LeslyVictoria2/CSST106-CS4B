@@ -7,6 +7,14 @@
 
 ### **Lab Session 1: Image Transformations**
 #### **Scaling and Rotation:**
+1. Install OpenCV
+
+![Screenshot 2024-09-09 213855](https://github.com/user-attachments/assets/fc472e68-c6b2-4bab-8c67-f870a263ae56)
+
+Result:
+
+![Screenshot 2024-09-09 213920](https://github.com/user-attachments/assets/22f63288-bf73-42a1-8abb-8d200dd23a3f)
+
 
 ### **Lab Session 2: Filtering Techniques**
 #### **Blurring Technique:**
