@@ -9,7 +9,7 @@
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP2">Machine Problem 2</a>
 
 ### My Exercises
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER1">EXERCISE 1</a>
+<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:red; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER1">EXERCISE 1</a>
 
 ### My Google Colab Laboratory Work
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_MP1.ipynb">Google Colab Work 1 (MP1)</a>
