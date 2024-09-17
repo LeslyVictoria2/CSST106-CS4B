@@ -7,9 +7,10 @@
 
 - This is the 2x2 picture I used in making these exercises.
 
-![image](https://github.com/user-attachments/assets/a921a22b-c0e4-4874-939f-4ff8a967c5de)
+![image](https://github.com/user-attachments/assets/fe9c0a4e-92f8-4335-82cf-2037b9415198)
 
-![image](https://github.com/user-attachments/assets/d1828947-3534-4a2e-93b7-2d8eed76e0c7)
+- This is the scaled image and rotated image. The first image is a scaled version, reduced to 50% of its original size, which decreases the dimensions while maintaining the image's proportions. The second image has been rotated by 45 degrees, altering its orientation but preserving the content of the original image.
+
 ## **BLURRING TECHNIQUES:**
 
 ## **EDGE DETECTION TECHNIQUES:**
