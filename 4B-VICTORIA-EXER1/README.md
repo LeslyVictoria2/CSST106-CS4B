@@ -38,3 +38,18 @@
 - Laplacian edge detection is less sensitive to noise than Sobel edge detection but can be more susceptible to noise. It may also produce multiple edges for a single edge.
 - Prewitt edge detection is also a simple and computationally efficient method. It's like Sobel edge detection in terms of sensitivity to noise and the potential for double edges.
 - Canny edge detection is considered one of the most robust edge detection algorithms. It's less sensitive to noise than Sobel and Laplacian, and it can produce thin, continuous edges.
+
+### Images:
+![image](https://github.com/user-attachments/assets/91ce0612-d13f-4ea2-b563-f4bc31484b21)
+
+1. Sobel Edge Detection - Sobel detects edges by looking at how the brightness of pixels changes from side to side and up and down. It creates thicker lines around the edges, such as the outline of the face, eyes, and mouth.
+2. Laplacian Edge Detection - Laplacian finds edges by checking for sharp changes in brightness in all directions. It gives thinner, more detailed edges compared to Sobel, making the facial features look sharper but can be sensitive to noise.
+3. Prewitt Edge Detection - Prewitt works similarly to Sobel but uses a simpler way to find changes in brightness. The edges it detects are also thick but a bit smoother, showing the outlines of the face and features in a slightly softer way.
+4. Canny Edge Detection - Canny is a more advanced method that first reduces noise and then finds very clear and thin edges. It produces sharp, precise lines around the face and features, making it good for accurate edge detection.
+
+![image](https://github.com/user-attachments/assets/6a7c6596-266a-4169-a14b-3a0e01a9e994)
+
+*This Table 2 above compares various edge detection techniques based on sensitivity to noise, edge thinness, edge continuity, and computational efficiency. The Sobel and Prewitt operators are simple and computationally efficient but are sensitive to noise and tend to detect thicker edges with moderate edge continuity. The Laplacian method is also efficient and capable of detecting thin edges, but it is highly sensitive to noise and lacks strong edge continuity. The Canny edge detector, while computationally more intensive, excels in reducing noise sensitivity, producing thin edges, and maintaining edge continuity, making it the most accurate technique among those listed.*
+
+## **Conclusion:**
+In conclusion, blurring and edge detection are important tools in image processing, each serving a different purpose. Blurring, such as with Gaussian blur, helps smooth out images by reducing noise and softening details. This is useful when preparing an image for further analysis. Edge detection, like the Canny Edge Detector, is used to find the edges or outlines of objects in an image. It focuses on areas where there are sharp changes in brightness. Both techniques are essential in improving image quality and helping identify important features in computer vision applications.
