@@ -16,6 +16,5 @@
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_MP1.ipynb">Google Colab Work 1 (MP1)</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_MP2.ipynb">Google Colab Work 2 (MP2)</a>
 
-#####
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_EXER1.ipynb">Google Colab Work 3 (EXER1)</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_EXER2.ipynb">Google Colab Work 4 (EXER2)</a>
