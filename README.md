@@ -5,9 +5,9 @@
 ## Welcome to my compilation of Laboratory Work for CSST106 – Perception and Computer Vision Course.
 
 ### ALL Files of my Machine Problem:
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:cyan; border: 2px black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP1">Machine Problem 1</a>
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:cyan; border: 2px black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP2">Machine Problem 2</a>
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:cyan; border: 2px black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP3">Machine Problem 3</a>
+<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:cyan; border: 2px solid black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP1">Machine Problem 1</a>
+<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:cyan; border: 2px solid black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP2">Machine Problem 2</a>
+<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:cyan; border: 2px solid black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP3">Machine Problem 3</a>
 
 #### - Google Colab Laboratory Work:
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_MP1.ipynb">MP1</a>
@@ -15,8 +15,8 @@
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_MP3.ipynb">MP3</a>
 
 ### ALL Files of my Exercises:
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:magenta; border: 2px black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER1">EXERCISE 1</a>
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:magenta; border: 2px black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER2">EXERCISE 2</a>
+<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:magenta; border: 2px solid black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER1">EXERCISE 1</a>
+<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:magenta; border: 2px solid black;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER2">EXERCISE 2</a>
 
 #### - Google Colab Laboratory Work:
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkred; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_EXER1.ipynb">EXER1</a>
