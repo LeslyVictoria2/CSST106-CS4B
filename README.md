@@ -18,7 +18,7 @@
 <a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:magenta; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-EXER4">EXERCISE 4</a>
 
 ### My Activity Laboratory:
-<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/ACTIVITY-LAB(09-30-24)">ACTIVITY LAB</a>
+<a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:green; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/ACTIVITY-LAB(09-30-24)">ACTIVITY LAB (09-30-24)</a>
 
 ### My MIDTERM EXAM:
 <a style="color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:yellow; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B-VICTORIA-MP">MIDTERM EXAM</a>
@@ -33,4 +33,4 @@
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkred; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_EXER2.ipynb">EXER2</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkred; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_EXER3.ipynb">EXER3</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkred; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_EXER4.ipynb">EXER4</a>
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgreen; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/ACTIVITY-LAB(09-30-24).ipynb">ACTIVITY LAB</a>
+<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgreen; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/ACTIVITY-LAB(09-30-24).ipynb">ACT-LAB</a>
