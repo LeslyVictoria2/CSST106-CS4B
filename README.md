@@ -36,4 +36,4 @@
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgreen; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-
 CS4B/blob/main/ACTIVITY_LAB_(09_30_24).ipynb">ACT-LAB</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:#C6E7FF; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_LAGANZON_MP_YOLOv5.ipynb">MP-YOLO</a>
-<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:#C6E7FF; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_LAGANZON_MP_HOG-SVM.ipynb">MP-HOG-SVM</a>
+<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:#C6E7FF; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST106-CS4B/blob/main/4B_VICTORIA_LAGANZON_MP_HOG_SVM.ipynb">MP-HOG-SVM</a>
