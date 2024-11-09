@@ -1,5 +1,7 @@
 # Midterm Project: Feature Extraction and Object Detection
 
+[4B-VICTORIA-LAGANZON-MP-video](https://drive.google.com/file/d/1vBCyr6dTTU2CiiMqbl9YUUXW2ZzHPPt_/view?usp=sharing)
+
 **Course**: CSST106 - Perception and Computer Vision  
 **Term**: 1st Semester, 2024-2025  
 **University**: Laguna State Polytechnic University, Province of Laguna  
