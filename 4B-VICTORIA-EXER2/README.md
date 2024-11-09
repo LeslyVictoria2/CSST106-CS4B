@@ -80,5 +80,3 @@ This exercise demonstrates the use of various feature extraction and object dete
 This exercise showcases the capabilities of SIFT, SURF, and ORB in feature extraction, along with their applications in feature matching and image alignment. Each algorithm presents unique strengths, such as SIFT's accuracy, SURF's balanced speed, and ORB's efficiency for real-time applications. Homography aids in practical applications like image stitching, demonstrating the power of feature extraction in computer vision.
 
 ---
-
-This README provides a high-level overview and structure for documenting the tasks performed, including insights into the strengths and applications of each technique. Let me know if you need additional details or specific code snippets added.
