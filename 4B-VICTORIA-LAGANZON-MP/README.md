@@ -1,3 +1,7 @@
+Here's the updated `README.md` content with all GitHub links changed to your specified repository.
+
+---
+
 # Midterm Exam Project
 
 Welcome to the Midterm Exam Project for *CSST106-CS4B*! This project demonstrates advanced image recognition techniques using *HOG-SVM* and *YOLO* models.
@@ -12,7 +16,7 @@ Click below to watch a detailed walkthrough of the project:
 
 ## 📑 Project Report
 Dive into the detailed analysis and insights:
-- [📄 Midterm Project Report (PDF)](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4B-VICTORIA-LAGANZON-MP-report.pdf)
+- [📄 Midterm Project Report (PDF)](https://github.com/LeslyVictoria2/CSST106-CS4B/blob/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/4B-VICTORIA-LAGANZON-MP-report.pdf)
 
 ---
 
@@ -22,19 +26,19 @@ Dive into the detailed analysis and insights:
 The HOG-SVM model is used for object detection by extracting Histogram of Oriented Gradients features and classifying them using a Support Vector Machine.
 
 - *Code Resources:*
-  - [🔗 HOG-SVM Model Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/HOG-SVM_model)
-  - [🔗 HOG-SVM Test Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/HOG-SVM_test)
-  - [📘 Jupyter Notebook](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4B_VICTORIA_LAGANZON_MP_HOG_SVM.ipynb)
-  - [🐍 Python Script](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4b_victoria_laganzon_mp_hog_svm.py)
+  - [🔗 HOG-SVM Model Code](https://github.com/LeslyVictoria2/CSST106-CS4B/tree/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/HOG-SVM_model)
+  - [🔗 HOG-SVM Test Code](https://github.com/LeslyVictoria2/CSST106-CS4B/tree/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/HOG-SVM_test)
+  - [📘 Jupyter Notebook](https://github.com/LeslyVictoria2/CSST106-CS4B/blob/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/4B_VICTORIA_LAGANZON_MP_HOG_SVM.ipynb)
+  - [🐍 Python Script](https://github.com/LeslyVictoria2/CSST106-CS4B/blob/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/4b_victoria_laganzon_mp_hog_svm.py)
 
 ### ⚡ YOLO Model
 The YOLO (You Only Look Once) model is a real-time object detection system that uses deep learning for high accuracy and speed.
 
 - *Code Resources:*
-  - [🔗 YOLO Model Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/yolov5_model)
-  - [🔗 YOLO Test Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/yolov5_test)
-  - [📘 Jupyter Notebook](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4B_VICTORIA_LAGANZON_MP_YOLO.ipynb)
-  - [🐍 Python Script](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4b_victoria_laganzon_mp_yolo.py)
+  - [🔗 YOLO Model Code](https://github.com/LeslyVictoria2/CSST106-CS4B/tree/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/yolov5_model)
+  - [🔗 YOLO Test Code](https://github.com/LeslyVictoria2/CSST106-CS4B/tree/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/yolov5_test)
+  - [📘 Jupyter Notebook](https://github.com/LeslyVictoria2/CSST106-CS4B/blob/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/4B_VICTORIA_LAGANZON_MP_YOLO.ipynb)
+  - [🐍 Python Script](https://github.com/LeslyVictoria2/CSST106-CS4B/blob/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/4b_victoria_laganzon_mp_yolo.py)
 
 ---
 
@@ -42,7 +46,7 @@ The YOLO (You Only Look Once) model is a real-time object detection system that 
 
 To facilitate testing and model configuration, the following resources are provided:
 
-- [🗂 Data Configuration File](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/temp_data.yaml)
+- [🗂 Data Configuration File](https://github.com/LeslyVictoria2/CSST106-CS4B/blob/b6088556c5d47717dec1ddf1b48d25ed2a7aa268/4B-VICTORIA-LAGANZON-MP/temp_data.yaml)
 
 ---
 
