@@ -1,93 +1,26 @@
-# Midterm Project: Feature Extraction and Object Detection
+# Midterm Exam Project
 
-## VIDEO
-[4B-VICTORIA-LAGANZON-MP-video](https://drive.google.com/file/d/1vBCyr6dTTU2CiiMqbl9YUUXW2ZzHPPt_/view?usp=sharing)
+Welcome to the Midterm Exam Project for *CSST106-CS4B*! This project includes implementations and evaluations of HOG-SVM and YOLO models for image recognition.
 
----
+## 📹 Project Video
+[Project Video - 4B-VICTORIA-LAGANZON-MP](https://drive.google.com/file/d/1vBCyr6dTTU2CiiMqbl9YUUXW2ZzHPPt_/view?usp=sharing)
 
-## Project Overview
+## 📑 Project Report
+- [Midterm Project Report PDF](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4B-VICTORIA-LAGANZON-MP-report.pdf)
 
-This project explores feature extraction and object detection using two distinct approaches:
+## 📂 Project Structure and Links
 
-- **HOG-SVM (Histogram of Oriented Gradients with Support Vector Machine)**
-- **YOLOv5 (You Only Look Once, Version 5)**
+### HOG-SVM Model
+- [HOG-SVM Model Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/HOG-SVM_model)
+- [HOG-SVM Test Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/HOG-SVM_test)
+- [HOG-SVM Jupyter Notebook](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4B_VICTORIA_LAGANZON_MP_HOG_SVM.ipynb)
+- [HOG-SVM Python Script](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4b_victoria_laganzon_mp_hog_svm.py)
 
-The primary objectives are to select and preprocess a dataset, implement the algorithms, train and evaluate models, and compare their performance on object detection tasks.
+### YOLO Model
+- [YOLO Model Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/yolov5_model)
+- [YOLO Test Code](https://github.com/laganzonj/CSST106-CS4B/tree/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/yolov5_test)
+- [YOLO Jupyter Notebook](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4B_VICTORIA_LAGANZON_MP_YOLO.ipynb)
+- [YOLO Python Script](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/4b_victoria_laganzon_mp_yolo.py)
 
-## Table of Contents
-
-- [Dataset](#dataset)
-- [Algorithms](#algorithms)
-  - [HOG-SVM](#hog-svm)
-  - [YOLOv5](#yolov5)
-- [Implementation](#implementation)
-  - [Data Preparation](#data-preparation)
-  - [Model Training](#model-training)
-  - [Evaluation](#evaluation)
-- [Comparison and Discussion](#comparison-and-discussion)
-- [Conclusion](#conclusion)
-- [References](#references)
-
----
-
-## Dataset
-
-- **Dataset Used**: PASCAL VOC 2012
-- **Links**:
-  - [Pascal VOC Dataset on Google Drive](https://drive.google.com/drive/folders/1ULCGxid4QRqcQ35sLb4oRENUobmPLEhc?usp=sharing)
-  - [Roboflow Link](https://public.roboflow.com/object-detection/pascal-voc-2012)
-
-The PASCAL VOC dataset includes 20,000 images across 20 object categories, with well-defined bounding boxes and annotations suitable for object detection.
-
-## Algorithms
-
-### HOG-SVM
-
-HOG-SVM is a traditional machine learning approach that uses histogram gradients to extract features, which are then classified by an SVM.
-
-- **Advantages**: Efficient on simpler scenes and low computational power requirements.
-- **Limitations**: Struggles with complex backgrounds and multi-scale detection.
-
-### YOLOv5
-
-YOLOv5 is a deep learning-based object detection model designed for real-time applications.
-
-- **Advantages**: High accuracy, real-time detection capabilities.
-- **Limitations**: Requires substantial computational power.
-
-## Implementation
-
-### Data Preparation
-
-1. **Resizing** and **normalization** of images.
-2. **Labeling** bounding boxes for YOLOv5.
-3. Splitting the dataset into training and validation sets.
-
-### Model Training
-
-- **HOG-SVM**: Utilizes HOG feature extraction followed by training an SVM classifier.
-- **YOLOv5**: Trained on labeled images, leveraging pretrained weights to expedite training.
-
-### Evaluation
-
-Metrics used for evaluation:
-- **Accuracy**
-- **Precision**
-- **Recall**
-- **Inference Speed**
-
-## Comparison and Discussion
-
-- **HOG-SVM**: Suitable for simpler, resource-constrained applications.
-- **YOLOv5**: Better suited for complex, multi-object detection tasks.
-
-## Conclusion
-
-The HOG-SVM model is ideal for single-object detection tasks, while YOLOv5 excels in complex, multi-object detection scenarios. Each model's strengths and limitations emphasize the importance of aligning the algorithm with the task requirements and available resources.
-
-## References
-
-- GitHub Repository: [Person Detection](https://github.com/RashadGarayev/PersonDetection)
-- [YOLOv5 Repository by Ultralytics](https://github.com/ultralytics/yolov5)
-
----
+## ⚙️ Additional Resources
+- [Data Configuration File](https://github.com/laganzonj/CSST106-CS4B/blob/4e871dcaaa2285a47274f05c91fa919b4e8bc978/4B-VICTORIA-LAGANZON-MP/temp_data.yaml)
