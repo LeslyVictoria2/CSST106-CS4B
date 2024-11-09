@@ -1,11 +1,4 @@
 # Exercise 3: Advanced Feature Extraction and Image Processing
-
-**Course**: CSST106 - Perception and Computer Vision  
-**Term**: 1st Semester, 2024-2025  
-**University**: Laguna State Polytechnic University, Province of Laguna  
-**Student**: Lesly-Ann B. Victoria  
-**Section**: BSCS-4B  
-
 ---
 
 ## Exercise Overview
